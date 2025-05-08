@@ -247,4 +247,4 @@ plt.legend()
 
 
 # Result:
- Include your result here
+ Thus the Data Visualization using matplot library was executed successfully. 
